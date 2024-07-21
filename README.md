@@ -22,7 +22,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <img src="https://i.imgur.com/MTV6Eqk.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 - These are all the files you need to downloaded os-Ticket
+These are all the prerequisites you need to donwload os-Ticket.
 </p>
 <br />
 
