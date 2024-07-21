@@ -19,7 +19,7 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 - Windows 10</b> (21H2)
 
 <p>
-<img src="https://i.imgur.com/MTV6Eqk.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/com0KkJ.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 These are all the prerequisites you need to donwload os-Ticket.
